@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @zhmtek
+- 👀 I’m interested in algorithm
